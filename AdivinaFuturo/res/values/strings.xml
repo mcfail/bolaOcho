@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdivinaFuturo</string>
+    <string name="hello_world">Oiga, no</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="respuestas">
+        
+        <item>Sí</item>
+        <item >Seguramente</item>
+        <item >Sin duda</item>
+        <item >No quiero decirte que sí, pero sí</item>
+        <item >Por supuestísimo</item>
+        <item >Sí, 100% seguro</item>
+        
+        <item >Tal vez</item>
+        <item >No lo sé</item>
+        <item >Hay una mínima posibilidad</item>
+        <item >Quizá</item>
+        <item >Es posible</item>
+        <item >Ni sí ni no sino todo lo contrario</item>
+        <item >No sé, vuelve a preguntar a ver</item>
+        
+        <item >No</item>
+        <item >Ni en un millón de años</item>
+        <item >Es más fácil que salga el Half-Life 3</item>
+        <item >Imposible</item>
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+    <string name="pregunta">Pregunta.</string>
+
+</resources>
